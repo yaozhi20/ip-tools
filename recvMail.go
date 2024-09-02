@@ -241,5 +241,5 @@ func hostMaster() {
 }
 
 func main() {
-	latest_ip()
+	hostMaster()
 }
