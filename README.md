@@ -22,6 +22,7 @@ python sendEmail.py
 this util send  email with the current ip.
 
 need set env
+
 EMAIL_PRO   your 163 email ,
 
 EMAIL_PASS    your email passcode 
